@@ -26,3 +26,9 @@ criaCartao(
     'Qual a diferença entre mandarim e chinês',
     'Mandarim é a língua falada, ja chinês é a escrita'
 )
+
+criaCartao(
+    'Natureza',
+    'Qual o maior animal terrestre?',
+    'Elefante'
+)
